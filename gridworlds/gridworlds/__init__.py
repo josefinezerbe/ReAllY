@@ -10,4 +10,4 @@ register(
 register(
     id="gridworld-v1",
     entry_point="gridworlds.envs:GridWorld_Global",
-    max_episode_steps=100000,
+    max_episode_steps=100000,)
